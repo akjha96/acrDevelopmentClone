@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/acrDevelopmentClone/static/js/main.344f0977.chunk.js",
-    "main.js.map": "/acrDevelopmentClone/static/js/main.344f0977.chunk.js.map",
+    "main.js": "/acrDevelopmentClone/static/js/main.6b849dbd.chunk.js",
+    "main.js.map": "/acrDevelopmentClone/static/js/main.6b849dbd.chunk.js.map",
     "runtime-main.js": "/acrDevelopmentClone/static/js/runtime-main.dd6968cf.js",
     "runtime-main.js.map": "/acrDevelopmentClone/static/js/runtime-main.dd6968cf.js.map",
     "static/js/2.75103bee.chunk.js": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js",
     "static/js/2.75103bee.chunk.js.map": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js.map",
     "index.html": "/acrDevelopmentClone/index.html",
-    "precache-manifest.5092b6c0c04681989ac12877d62f0fb0.js": "/acrDevelopmentClone/precache-manifest.5092b6c0c04681989ac12877d62f0fb0.js",
+    "precache-manifest.488896ff92b8108593478cc1cbb73643.js": "/acrDevelopmentClone/precache-manifest.488896ff92b8108593478cc1cbb73643.js",
     "service-worker.js": "/acrDevelopmentClone/service-worker.js",
     "static/js/2.75103bee.chunk.js.LICENSE.txt": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js.LICENSE.txt",
     "static/media/Custom Software Icon.svg": "/acrDevelopmentClone/static/media/Custom Software Icon.350387f5.svg",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.dd6968cf.js",
     "static/js/2.75103bee.chunk.js",
-    "static/js/main.344f0977.chunk.js"
+    "static/js/main.6b849dbd.chunk.js"
   ]
 }

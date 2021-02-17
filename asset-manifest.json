@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/acrDevelopmentClone/static/js/main.344f0977.chunk.js",
+    "main.js.map": "/acrDevelopmentClone/static/js/main.344f0977.chunk.js.map",
+    "runtime-main.js": "/acrDevelopmentClone/static/js/runtime-main.dd6968cf.js",
+    "runtime-main.js.map": "/acrDevelopmentClone/static/js/runtime-main.dd6968cf.js.map",
+    "static/js/2.75103bee.chunk.js": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js",
+    "static/js/2.75103bee.chunk.js.map": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js.map",
+    "index.html": "/acrDevelopmentClone/index.html",
+    "precache-manifest.5092b6c0c04681989ac12877d62f0fb0.js": "/acrDevelopmentClone/precache-manifest.5092b6c0c04681989ac12877d62f0fb0.js",
+    "service-worker.js": "/acrDevelopmentClone/service-worker.js",
+    "static/js/2.75103bee.chunk.js.LICENSE.txt": "/acrDevelopmentClone/static/js/2.75103bee.chunk.js.LICENSE.txt",
+    "static/media/Custom Software Icon.svg": "/acrDevelopmentClone/static/media/Custom Software Icon.350387f5.svg",
+    "static/media/Footer Adornment.svg": "/acrDevelopmentClone/static/media/Footer Adornment.e227d87b.svg",
+    "static/media/facebook.svg": "/acrDevelopmentClone/static/media/facebook.c95af783.svg",
+    "static/media/instagram.svg": "/acrDevelopmentClone/static/media/instagram.8a1f2572.svg",
+    "static/media/logo.svg": "/acrDevelopmentClone/static/media/logo.ea0de06c.svg",
+    "static/media/mobileIcon.svg": "/acrDevelopmentClone/static/media/mobileIcon.6838a9fb.svg",
+    "static/media/twitter.svg": "/acrDevelopmentClone/static/media/twitter.13b09900.svg",
+    "static/media/websiteIcon.svg": "/acrDevelopmentClone/static/media/websiteIcon.6b90d7dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6968cf.js",
+    "static/js/2.75103bee.chunk.js",
+    "static/js/main.344f0977.chunk.js"
+  ]
+}
